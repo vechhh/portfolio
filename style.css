@@ -46,6 +46,15 @@ body{
     gap: 15px;
       
 }
+.omg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 1200px;
+    height: 160px;
+    background-color: #7b917b;
+}
 .t{
     display: flex;
     align-items: center;
