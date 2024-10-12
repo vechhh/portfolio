@@ -5,5 +5,7 @@
 
 .slay{
     display: flex;
+    align-items: row;
+    justify-content: space-between;
     flex-direction: column;
 }
