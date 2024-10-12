@@ -21,7 +21,7 @@ body{
     border-radius: 50px;
 }
 .my{
-    width: 500px;
+    width: 1400px;
     height: 200px;
     background-color: whitesmoke;
     display: flex;
@@ -29,4 +29,14 @@ body{
     justify-content: center;
     flex-direction: column;
     text-align: center
+}
+.my2{
+    width: 1400px;
+    height: 200px;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center   
 }
