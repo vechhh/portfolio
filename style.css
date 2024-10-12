@@ -1,3 +1,14 @@
+@impact url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.t1{
+    font-size: 30px;
+}
+.t2{
+    font-size: 12px;
+    font-weight: 400;
+}
+.t3{
+    font-size: 25px;
+}
 *{
     margin: 0;
     padding: 0;
@@ -7,7 +18,8 @@ body{
     border-left:200px solid rgb(255, 255, 255);
     width: 50%;
     width: 1200px;
-    height: 700px;
+    font-family: "El Messiri" , serif;
+    font-size: 18px;
 
 }
 .slay{
