@@ -3,12 +3,15 @@
     padding: 0;
 }
 body{
-    width: 1400px;
-    height: 500px;
-    background-color: #6c7156;
+    border-right:200px solid rgb(255, 255, 255);
+    border-left:200px solid rgb(255, 255, 255);
+    width: 50%;
+    width: 1200px;
+    height: 700px;
+
 }
 .slay{
-    width: 1400px;
+    width: 1200px;
     height: 150px;
     background-color: #7b917b;
     display: flex;
@@ -21,31 +24,41 @@ body{
     border-radius: 50px;
 }
 .my{
-    width: 1400px;
-    height: 200px;
+    width: 1200px;
+    height: 300px;
     background-color: whitesmoke;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    text-align: center
+    text-align: center;
+    gap: 20px;
 }
 .my2{
-    width: 1400px;
+    width: 1200px;
     height: 200px;
     background-color: whitesmoke;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    text-align: center   
+    text-align: center ;
+    gap: 15px;
+      
+}
+.t{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 .icons{
-    width: 1400px;
+    width: 1200px;
     height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row;
      gap: 20px;
+     background-color: #7b917b;
 }
