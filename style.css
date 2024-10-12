@@ -14,9 +14,7 @@
     padding: 0;
 }
 body{
-    border-right:200px solid rgb(255, 255, 255);
-    border-left:200px solid rgb(255, 255, 255);
-    width: 50%;
+ 
     width: auto;
     font-family: "El Messiri" , serif;
     font-size: 18px;
@@ -80,7 +78,7 @@ body{
     align-items: center;
     justify-content: center;
     gap: 20px;
-    width: auto;
+    width: 1350px;
     height: 160px;
     background-color: #7b917b;
 }
@@ -91,7 +89,7 @@ body{
     text-align: center;
 }
 .icons{
-    width:auto;
+    width: auto;
     height: 50px;
     display: flex;
     align-items: center;
