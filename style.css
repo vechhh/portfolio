@@ -32,6 +32,9 @@ body{
     flex-direction: row;
     gap: 250px;
 }
+.color{
+    color: rgb(102, 102, 102);
+}
 .enot{
     border-radius: 50px;
 }
